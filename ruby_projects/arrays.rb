@@ -10,7 +10,7 @@ a.first
 a.unshift("Vail")
 # ["Vail", 1, 2, 3, 4, 5, 6, 7, 8]
 a.append("Vail")
-# ["Vail", 1, 2, 3, 4, 5, 6, 7, 8, "Vail"]
+# ["Vail", 1, 2, 3, 4, 5, 6, 7, 8, "Vail"] 
 a.uniq
 # strips duplicates from arrays
 # ["Vail", 1, 2, 3, 4, 5, 6, 7, 8]
